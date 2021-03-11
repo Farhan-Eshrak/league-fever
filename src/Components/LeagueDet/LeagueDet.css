@@ -1,0 +1,13 @@
+#header1 img {
+  height: 50%;
+  width: auto;
+}
+#genderImage {
+  width: 80%;
+  height: auto;
+}
+#detailBg{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
