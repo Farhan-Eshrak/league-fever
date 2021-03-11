@@ -1,3 +1,3 @@
 go to [League Fever](https://leaguefever.netlify.app/)
 
-click on any lague and you will see detaiils about that one
+click on any team and you will see detaiils about that one
